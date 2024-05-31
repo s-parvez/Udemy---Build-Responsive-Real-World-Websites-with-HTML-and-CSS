@@ -121,6 +121,7 @@ ul li {
   background-color: #885214;
 }
 .box-6 {
+  order: -1;
   background-color: violet;
 }
 
