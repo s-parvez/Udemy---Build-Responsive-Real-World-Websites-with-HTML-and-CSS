@@ -211,3 +211,37 @@
   display: flex;
   align-items: flex-end;
 }
+
+.f {
+  background-color: #0c2743;
+}
+.p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.w p {
+  color: #fff;
+  /* Text Paragraph */
+  font-family: "Plus Jakarta Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 36px */
+}
+.w h5 {
+  color: #fff;
+  /* H6 */
+  font-family: "Plus Jakarta Sans";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 200%; /* 48px */
+}
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 15px;
+}
