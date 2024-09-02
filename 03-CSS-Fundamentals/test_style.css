@@ -353,6 +353,7 @@
   height: 100%;
 }
 .head p {
+  background-color: #888888;
   padding: 13px 0px;
   color: #fff;
   text-align: center;
@@ -366,6 +367,4 @@
 }
 .asset {
   display: flex;
-
-  gap: 9px;
 }
