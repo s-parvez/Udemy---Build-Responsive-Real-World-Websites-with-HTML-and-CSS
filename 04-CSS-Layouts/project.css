@@ -58,3 +58,69 @@
   top: 0px;
   left: 0%;
 }
+.card {
+  width: 300px;
+}
+
+.v h4 {
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 200%; /* 48px */
+}
+
+.money h4 {
+  color: #000;
+  text-align: center;
+  /* Text Price */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.money p {
+  color: #454545;
+  text-align: center;
+  /* Text Pragraph */
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 32.4px */
+}
+
+.add-card {
+  border-radius: 8.512px;
+  background: #d8d8d8;
+  width: 15%;
+
+  font-size: 20px;
+
+  color: #000;
+}
+.add-cart {
+  background: #d8d8d8;
+  display: flex;
+
+  padding: 16px 30px;
+  border-radius: 8.512px;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  width: 80%;
+}
+.button {
+  display: flex;
+  align-items: center;
+  width: 301px;
+  height: 41px;
+  justify-content: space-between;
+}
+.flex {
+  display: flex;
+  align-items: flex-end;
+}
